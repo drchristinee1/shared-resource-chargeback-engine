@@ -1,1 +1,22 @@
-
+[
+  {
+    "resource": "k8s-cluster",
+    "service": "EKS",
+    "total_cost": 50000,
+    "usage": {
+      "payments": 40,
+      "search": 30,
+      "platform": 30
+    }
+  },
+  {
+    "resource": "logging-platform",
+    "service": "CloudWatch",
+    "total_cost": 15000,
+    "usage": {
+      "payments": 50,
+      "search": 20,
+      "platform": 30
+    }
+  }
+]
