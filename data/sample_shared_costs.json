@@ -18,5 +18,15 @@
       "search": 20,
       "platform": 30
     }
+  },
+  {
+    "resource": "networking-layer",
+    "service": "VPC",
+    "total_cost": 10000,
+    "usage": {
+      "payments": 50,
+      "search": 25,
+      "platform": 25
+    }
   }
 ]
