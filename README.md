@@ -2,7 +2,7 @@
 
 ## 💡 Overview
 
-In many cloud environments, shared resources—like Kubernetes clusters, logging platforms, and networking layers—create a major FinOps challenge:
+In many cloud environments, shared resources, like Kubernetes clusters, logging platforms, and networking layers, create a major FinOps challenge:
 
 * Costs are centralized
 * Ownership is unclear
