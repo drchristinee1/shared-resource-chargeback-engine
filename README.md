@@ -1,6 +1,6 @@
 # Shared Resource Chargeback Engine
 
-## 💡 Overview
+## Overview
 
 In many cloud environments, shared resources, like Kubernetes clusters, logging platforms, and networking layers, create a major FinOps challenge:
 
@@ -13,7 +13,7 @@ This project solves that problem by transforming shared infrastructure cost into
 
 ---
 
-## ⚙️ What This Engine Does
+## What This Engine Does
 
 This Python-based engine:
 
@@ -27,7 +27,7 @@ This Python-based engine:
 
 ---
 
-## 📊 Example Scenario
+## Example Scenario
 
 A shared Kubernetes cluster costs **$50,000/month**.
 
@@ -45,7 +45,7 @@ With this engine:
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 ### Detailed Allocation
 
@@ -60,7 +60,7 @@ With this engine:
 
 ---
 
-### 💰 Team Chargeback Summary
+### Team Chargeback Summary
 
 | Team     | Total Chargeback |
 | -------- | ---------------- |
@@ -70,11 +70,11 @@ With this engine:
 
 ---
 
-## 🚀 Why This Matters
+## Why This Matters
 
 This engine bridges the biggest gap in FinOps:
 
-👉 **From visibility → to action**
+ **From visibility → to action**
 
 Instead of asking:
 
@@ -88,7 +88,7 @@ We can now answer:
 
 ---
 
-## 🧠 FinOps Impact
+##  FinOps Impact
 
 This approach enables:
 
@@ -99,7 +99,7 @@ This approach enables:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 shared-resource-chargeback-engine/
@@ -121,7 +121,7 @@ python3 main.py
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * AWS CUR integration (Athena + boto3)
 * Kubernetes/OpenCost integration
@@ -131,7 +131,7 @@ python3 main.py
 
 ---
 
-## ✨ Author
+##  Author
 
 Built as part of a FinOps engineering workflow to operationalize cost accountability and shared resource optimization.
 
